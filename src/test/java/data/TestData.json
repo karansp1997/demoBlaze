@@ -1,0 +1,11 @@
+{
+  "existingUserCredentials": [{
+    "userName": "TestUser@testuser.com",
+    "passWord": "testuser123"
+    }
+  ],
+  "newUserForSignUp": [{
+    "userName": "",
+    "passWord": ""
+  }]
+}
